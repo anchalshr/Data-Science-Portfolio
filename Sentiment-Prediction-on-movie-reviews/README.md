@@ -6,9 +6,9 @@ In this dataset, each record represents a movie-review pair with movie title, de
 director, actors, users' ratings, review text, reviewer name, etc.
 
 ## Data Files
-train.csv - the training set containing the review sentiment along with other features.
-test.csv - the test set has review features, but no sentiment column, since it is the target.
-movies.csv - the file with metadata on movies.
+1. train.csv - the training set containing the review sentiment along with other features.
+2. test.csv - the test set has review features, but no sentiment column, since it is the target.
+3. movies.csv - the file with metadata on movies.
 Column named "sentiment" - indicating "POSITIVE" or "NEGATIVE", which is the target.
 
 ## Methodology
